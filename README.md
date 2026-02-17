@@ -1,4 +1,5 @@
-Loan Approval Prediction using Machine Learning
+# Loan Approval Prediction using Machine Learning
+
 📌 Overview
 This project builds classification models to predict whether a loan application will be approved based on demographic and financial features.
 The objective is to evaluate different classification algorithms and compare their performance using multiple evaluation metrics.
@@ -45,4 +46,4 @@ Hyperparameter tuning
 Cross-validation
 Class imbalance handling (SMOTE)
 Model deployment using Streamlit
-# loan-approval-prediction-ml
+
